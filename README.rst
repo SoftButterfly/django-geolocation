@@ -2,7 +2,7 @@
 Django Geolocation
 ==================
 
-A model field that can hold a geolocation (latitude/longitude), and corresponding admin/form widget.
+A collection of Django utilities to store simple geographical information.
 
 .. image:: https://travis-ci.org/ZodiacFireworks/django-geolocation.svg?branch=master
     :alt: Travis CI
