@@ -4,6 +4,14 @@ Django Geolocation
 
 A model field that can hold a geolocation (latitude/longitude), and corresponding admin/form widget.
 
+.. image:: https://travis-ci.org/ZodiacFireworks/django-geolocation.svg?branch=master
+    :alt: Travis CI
+    :target: https://travis-ci.org/ZodiacFireworks/django-geolocation
+
+.. image:: https://badges.gitter.im/ZodiacFireworks/django-geolocation.svg
+   :alt: Join the chat at https://gitter.im/ZodiacFireworks/django-geolocation
+   :target: https://gitter.im/ZodiacFireworks/django-geolocation?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+
 Table of Contents
 ==================
 
