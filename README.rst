@@ -62,3 +62,8 @@ This package is released under the MIT license.
     LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
     THE SOFTWARE.
+
+
+.. image:: https://badges.gitter.im/ZodiacFireworks/django-geolocation.svg
+   :alt: Join the chat at https://gitter.im/ZodiacFireworks/django-geolocation
+   :target: https://gitter.im/ZodiacFireworks/django-geolocation?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
