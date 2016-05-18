@@ -5,8 +5,8 @@ Contribute
 Suggestions, reported and documented issues, and pull request to contribute
 are welcome.
 
-For send a pull request the unique condition is use the ``commit.template`` file
-stored at ``settings`` directory. You can set this file as your git's
+To send a pull request the unique condition is the use of ``commit.template``
+file stored at ``settings`` directory. You can set this file as your git's
 ``commit.template`` by following this commands
 
 .. code-block:: bash
@@ -14,7 +14,7 @@ stored at ``settings`` directory. You can set this file as your git's
     $ cd /path/to/django-geolocation
     $ git config --local commit.template `$(pwd)`/settings/commit.template
 
-After that you will need add your changes and commit in the following way
+After that, you will need add your changes and commit in the following way
 
 .. code-block:: bash
 
