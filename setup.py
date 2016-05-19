@@ -7,8 +7,10 @@ setup(
     author='Martin Vuelta',
     author_email='martin.vuelta@gmail.com',
     url='https://github.com/ZodiacFireworks/django-geolocation',
+    download_url='https://github.com/ZodiacFireworks/django-geolocation/tarball/0.0.0',
+    keywords=['django', 'geographical information', 'geoposition', 'geolocation'],
     packages=find_packages(),
-    zip_safe=False,
+    zip_safe=True,
     package_data={
         'geolocation': [
         ],
