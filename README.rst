@@ -4,6 +4,10 @@ Django Geolocation
 
 A collection of Django utilities to store simple geographical information.
 
+.. image:: https://badge.fury.io/py/django-geolocation.svg
+    :alt: Python Package Index
+    :target: https://badge.fury.io/py/django-geolocation
+
 .. image:: https://travis-ci.org/ZodiacFireworks/django-geolocation.svg?branch=master
     :alt: Travis CI
     :target: https://travis-ci.org/ZodiacFireworks/django-geolocation
