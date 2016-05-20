@@ -2,6 +2,7 @@
 __pycache__
 migrations
 old
+*.egg-info
 
 # File Patterns
 *.sqlite3
