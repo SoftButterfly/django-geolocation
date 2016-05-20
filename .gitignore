@@ -1,9 +1,12 @@
 # Directory patterns
-__pycache__
-migrations
 old
+dist
+build
+migrations
 *.egg-info
+__pycache__
 
 # File Patterns
 *.sqlite3
 *.pyc
+*.mo

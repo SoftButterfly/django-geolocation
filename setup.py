@@ -43,17 +43,13 @@ setup(
         'Programming Language :: Python :: 3.5',
     ],
 
-    keywords=['django', 'geographical information', 'geoposition', 'geolocation'],
+    keywords=['django', 'geoposition', 'geolocation', 'geographical information'],
 
     zip_safe=True,
 
-    packages=find_packages(
-        exclude=[
-            'contrib',
-            'docs',
-            'tests'
-        ]
-    ),
+    packages=[
+        'geolocation',
+    ],
 
     package_data={
         'geolocation': [
