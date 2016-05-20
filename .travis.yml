@@ -7,3 +7,7 @@ notifications:
     on_start: never     # options: [always|never|change] default: always
 
 language: python
+install:
+  - pip install -r settings/pip.req
+script:
+  - python -c "print(\"there is no test\")"
